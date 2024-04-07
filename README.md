@@ -16,4 +16,8 @@ Portfolio will be located at [MarkWiltberger.github.io](https://MarkWiltberger.g
  - The backend will have a test suite with unit, integration, and end-to-end tests.
 
 ## Portfolio Project Development
-
+Recent developments:
+ - Set up [markwiltberger.github.io repository](https://github.com/MarkWiltberger/markwiltberger.github.io) to serve as portfolio site.
+   - Set up Jekyll server-side rendering with Minima theme to manage and serve the content of the portfolio site.
+     - The repository will allow versioning and management of portfolio site content.
+ - Configuring Vercel to serve backend API.
